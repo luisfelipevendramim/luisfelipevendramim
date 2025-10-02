@@ -6,7 +6,7 @@
 
 🧠 Cursando MBA USP/ESALQ em Data Science e Analytics
 
-👩‍💻 Tenho experiência na área de Projetos, Suprimentos e Desenvolvimento de Materiais
+👩‍💻 Tenho experiência com Análise de Dados, Gestão  de Projetos, Supply Chain e Desenvolvimento de Materiais
 
 ⚡️ Apaixonado por IA, Machine Learning e programação
 
