@@ -2,9 +2,9 @@
 # Olá, eu sou o Luís Felipe! 👋
 
 
-🧑🏼‍🎓 Mestre em Ciência e Engenharia de Materiais, Professor Orientador do MBA USP/ESALQ em Gestão de Projetos
+🧠 Aprovado no MBA USP/ESALQ em Data Science e Analytics com a nota máxima (10)!
 
-🧠 Cursando MBA USP/ESALQ em Data Science e Analytics
+🧑🏼‍🎓 Mestre em Ciência e Engenharia de Materiais, Professor Orientador do MBA USP/ESALQ em Gestão de Projetos
 
 👩‍💻 Tenho experiência com Análise de Dados, Gestão  de Projetos, Supply Chain e Desenvolvimento de Materiais
 
