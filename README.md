@@ -49,7 +49,7 @@ I enjoy building practical solutions that bridge data, technology and business, 
 Here are some of the projects that best represent my work in Data Science, Machine Learning, Generative AI and Intelligent Automation.
 
 | Project | Business Solution | Technologies | Repository |
-|----------|-------------|--------------|
+|----------|-------------|--------------|--------------|
 | 🤖 AI-Powered HR Assistant | Real-time employee support through Generative AI | Python • Cohere • RAG • n8n • MySQL | [🔗 Repository](https://www.linkedin.com/posts/lu%C3%ADs-felipe-vendramim-msc-17b67736_inteligenciaartificial-agentesdeia-iagenerativa-ugcPost-7474784765980643329-ihHp/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAeSzy8BnmprYFgwFXGrDGGAihWV4Kd8YKk) |
 | ⚙️ CRM Automation | Automated lead synchronization and workflow orchestration | Make • Airtable • Notion • APIs | [🔗 Repository](https://github.com/luisfelipevendramim/crm-automation-make-airtable-notion#-tech-stack) |
 | 📈 Supply Chain Analytics | Demand forecasting and inventory optimization platform | Python • XGBoost • Prophet | [🔗 Repository](https://github.com/luisfelipevendramim/m5-forecasting-supplychain) |
@@ -111,13 +111,13 @@ Whether you're looking to collaborate on innovative projects, discuss AI technol
 
 💼 **LinkedIn:** <p>
   <a href="https://www.linkedin.com/in/luís-felipe-vendramim-msc-17b67736/" target="_blank">
-    <img src="https://shields.io" alt="Link">
+    <img alt="Link">
   </a>
 </p>
 
 🌐 **Portfolio:** <p>
   <a href="https://github.com/luisfelipevendramim" target="_blank">
-    <img src="https://shields.io" alt="GitHub">
+    <img alt="GitHub">
   </a>
 </p>
 
