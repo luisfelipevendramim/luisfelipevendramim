@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/banner.png" alt="Luís Felipe Vendramim, M.Sc. - Senior Data Scientist Banner" width="900">
+  <img src="banner.png" alt="Luís Felipe Vendramim, M.Sc. - Senior Data Scientist Banner" width="900">
 </p>
 
 
